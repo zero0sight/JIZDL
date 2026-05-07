@@ -1,6 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [100MB](./100MB)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
